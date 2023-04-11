@@ -1,0 +1,4 @@
+- kết nối đc với font-end và node-js
+- Chức năng: Thêm, sửa , xóa,validate
+- Phân quyền: user,admin
+- Họ tên SV: Đỗ Hữu Duy PH26793 - Class: WE17305
